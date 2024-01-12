@@ -10,10 +10,20 @@
 
 - 🎮 Fun fact **I play League of Legends**
 
-<h3 align="left">Know me:</h3>
+## Know me
 <p align="left">
 <a href="https://linkedin.com/in/daniel-romero-758585184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-romero-758585184/" height="30" width="40" /></a> <a href="https://instagram.com/danimitad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danimitad" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<br />
+<br />
+## Github Stats
+
+  <br/>
+  <p align="center">
+    <a href="#"><img alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sakhurama&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Daniel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhurama&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  </p>
