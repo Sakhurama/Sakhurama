@@ -1,12 +1,14 @@
 ![Banner](https://camo.githubusercontent.com/8d7c0efe61a5cf26e3fff771b97c5218fff3876f89c1be36cb76f818865b68a9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333 "Banner")
 <h1 align="center">Hi ❤️, I'm Daniel</h1>
 <h3 align="center">A passionate student of development. 💻</h3>
+<br>
 
 - 🎨 I'm working on **Skolmi** at Frontend Developer Junior, Im learning a lot.
 
 - 🌱 I'm learning **Javascript, React, NextJS, HTML, CSS...**
 
 - 📖 I want to thank all the people who help me on this path. To my bosses, to Skolmi, to my teachers, thank you very much.
+<br>
 
 ## Know me
 <br/>
