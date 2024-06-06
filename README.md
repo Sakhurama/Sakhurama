@@ -2,13 +2,10 @@
 <h1 align="center">Hi ❤️, I'm Daniel</h1>
 <h3 align="center">A passionate student of development. 💻</h3>
 
-- 🎨 I'm working on **Skolmi** at graphic designer.
+- 🎨 I'm working on **Skolmi** at Frontend Developer Junior, Im learning a lot.
 
-- 🌱 I'm learning **Javascript, HTML, CSS...**
+- 🌱 I'm learning **Javascript, React, NextJS, HTML, CSS...**
 
-- 💬 Ask me about **Graphic Design**
-
-- 🎮 Fun fact **I play League of Legends**
 
 ## Know me
 <br/>
