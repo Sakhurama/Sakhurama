@@ -6,6 +6,7 @@
 
 - 🌱 I'm learning **Javascript, React, NextJS, HTML, CSS...**
 
+- 📖 I want to thank all the people who help me on this path. To my bosses, to Skolmi, to my teachers, thank you very much.
 
 ## Know me
 <br/>
