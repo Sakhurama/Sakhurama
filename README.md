@@ -3,7 +3,7 @@
 <h3 align="center">A designer and student of development . 💻</h3>
 <br>
 
-Im designer with knowledges in UI/UX desing. I like to see things improve.
+Im designer with knowledges in UI/UX desing. I like to see things improve. I'm currently working on improving the user interfaces for an education company I love very much called Skolmi. With some design, courses, Figma, and CSS, the apps already look much more appealing.
 
 - 🎨 I'm working on **Skolmi** at Frontend Developer Junior, Im learning a lot.
 
