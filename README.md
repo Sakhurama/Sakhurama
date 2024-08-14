@@ -12,12 +12,6 @@ Im designer with knowledges in UI/UX desing. I like to see things improve. I'm c
 - 📖 I want to thank all the people who help me on this path. To my bosses, to Skolmi, to my teachers, thank you very much.
 <br>
 
-## Know me
-<br/>
-<p align="left">
-<a href="https://linkedin.com/in/daniel-romero-758585184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-romero-758585184/" height="30" width="40" /></a> <a href="https://instagram.com/danimitad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danimitad" height="30" width="40" /></a>
-</p>
-
 ## Languages and Tools
 <br/>
 <p align="left"> 
