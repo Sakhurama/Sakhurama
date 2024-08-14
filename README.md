@@ -22,6 +22,7 @@ Im designer with knowledges in UI/UX desing. I like to see things improve. I'm c
 <img src="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" alt="gitHub" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+<img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="React Native" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="NextJs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="40" height="40"/>
