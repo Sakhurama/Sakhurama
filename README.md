@@ -1,4 +1,4 @@
-<a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
+<img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/>
 
 <h1 align="center">Hi 😀🌱, I'm Daniel</h1>
 <h3 align="center">Designer and student of development . 💻</h3>
