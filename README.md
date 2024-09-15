@@ -1,16 +1,16 @@
 <a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
 
 <h1 align="center">Hi 😀🌱, I'm Daniel</h1>
-<h3 align="center">Designer and student of development . 💻</h3>
+<h3 align="center">Designer and student of Frontend Develop 💻</h3>
 <br>
 
-Im designer with knowledges in UI/UX desing. I like to see things improve. I'm currently working on improving the user interfaces for an education company I love very much called Skolmi. With some design, courses, Figma, and CSS, the apps already look much more appealing.
+Im designer with somethings knowledges in UI/UX desing. I like to see things improve. I'm currently working on improving the user interfaces for an education company. Every detail is important! ✨ With some design, courses, Figma, and CSS, the apps already look much more appealing.
 
+- 🌱 I'm learning **Javascript, React, NextJS, HTML, CSS, Tailwind...** Every day I learn something new.
+  
 - 🎨 I'm working on **Skolmi** at Frontend Developer Junior, Im learning a lot.
 
-- 🌱 I'm learning **Javascript, React, NextJS, HTML, CSS...**
-
-- 📖 I want to thank all the people who help me on this path. To my bosses, to Skolmi, to my teachers, thank you very much.
+- 📖 I was trainee with a Software Consulting as Web Designer.
 <br>
 
 ## Languages and Tools
