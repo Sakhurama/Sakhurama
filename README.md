@@ -1,4 +1,4 @@
-<a href="#"><img width="auto" height="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"/></a>
+<a href="#"><img width="auto" height="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/1b4dff200932415.666ad11ba2f60.gif"/></a>
 
 <h1 align="center">Hi 😀🌱, I'm Daniel</h1>
 <h3 align="center">Designer and student of Frontend Develop 💻</h3>
