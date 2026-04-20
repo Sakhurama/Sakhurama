@@ -1,6 +1,6 @@
 <a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
 
-<h1 align="center">Hola, soy Daniel</h1>
+<h1 align="center">Hola, soy Daniel 👾</h1>
 <h3 align="center">Desarrollador Frontend & UI/UX 💻</h3>
 <br>
 
