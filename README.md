@@ -1,7 +1,7 @@
 <a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
 
-<h1 align="center">Hola, soy Daniel 👾</h1>
-<h3 align="center">Desarrollador Frontend & UI/UX 💻</h3>
+<h2 align="center">Hola, soy Daniel 👾</h1>
+<h1 align="center">Desarrollador Frontend & UI/UX 💻</h3>
 <br>
 
 Me encargo de crear y mejorar aplicaciones web, busco ofrecer soluciones agradables através de código que nos devuelvan tiempo para ser un poco más felices. 
